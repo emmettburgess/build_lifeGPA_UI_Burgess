@@ -192,8 +192,8 @@ p, ul, ol, dl, table, blockquote, form {
 }
 
 .profile-pic {
-	width: 150px;
-	height: auto;
+	width: auto;
+	height: 200px;
 	border: 2px solid lightskyblue;
 
 }
